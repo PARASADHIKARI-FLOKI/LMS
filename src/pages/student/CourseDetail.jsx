@@ -115,7 +115,7 @@ const CourseDetail = () => {
                           <img
                             src={assets.play_icon}
                             alt=""
-                            className="w-4 h-4 mt-1"
+                            className="w-4 h-4 mb-2"
                           />
                           <div className="flex items-center justify-between w-full text-gray-800 text-xs md:text-default">
                             <p>{lecture.lectureTitle}</p>
