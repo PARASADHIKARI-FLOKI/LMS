@@ -43,7 +43,7 @@ useEffect(()=>{
 
   return (
     <>
-    <div className='md:px-36 px-4 sm:px-8 pt-10'>
+    <div className='md:px-36 px-4 sm:px-8 pt-28'>
       <h1 className='text-2xl font-semibold mb-6'>My Enrollments</h1>
 
       <div className="overflow-x-auto">
@@ -106,7 +106,7 @@ useEffect(()=>{
       </div>
      
     </div>
-     <Footer/>
+    
      </>
   );
 };

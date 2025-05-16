@@ -183,7 +183,7 @@ const Home = () => {
           </Slider>
         </div>
       </div>
-      <Footer/>
+    
     </div>
   );
 };

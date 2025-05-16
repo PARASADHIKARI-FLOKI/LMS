@@ -181,7 +181,7 @@ const Jobplacement = () => {
   return (
 
     <div>
-      <section id="placement" className="py-16 bg-[#3c1f9d] px-4 mt-10">
+      <section id="placement" className="py-16 bg-[#3c1f9d] px-4">
         <div className="container mx-auto">
           <div className="text-center mb-16  text-white">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 ">Placement Assistance</h2>

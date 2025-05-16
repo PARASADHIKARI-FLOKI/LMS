@@ -47,7 +47,7 @@ const CoursesList = () => {
          {filteredCourse.map((course,index)=><CourseCard key={index} course={course}/>)}
         </div>
       </div>
-      <Footer/>
+     
     </>
   )
 }
