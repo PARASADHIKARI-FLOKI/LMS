@@ -277,7 +277,6 @@ const CourseDetail = () => {
           </div>
         </div>
       </div>
-      <Footer />
     </>
   ) : (
     <Loading />
